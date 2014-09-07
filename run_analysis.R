@@ -1,6 +1,11 @@
 ######################################################################################
 #Step1 -- Merges the Training and the test sets to create one data set.
-
+#check whether UCI HAR Dataset exists
+if (!("UCI HAR Dataset" %in% list.files())) {
+    stop("Master! I can't UCI HAR Dataset Directory under current working directory.\n 
+       Please use 'setwd()' to change working directory to right place or put\n 
+       UCI HAR Dataset under working directory.")
+}
 #load package, if not installed, the code below will install package automatically
 packagelist <- c("data.table")
 newpackage <- packagelist[!(packagelist %in% installed.packages()[,"Package"])]
