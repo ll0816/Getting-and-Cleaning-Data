@@ -26,7 +26,7 @@ Creates a second, independent tidy data set with the average of each variable fo
 3. Run following command in `RStudio` to run Rstript
 		
 		source("run_analysis.R")
-4. **Step 3** will create two txt-format files under working directory of Rstudio
+4. Code above will create two txt-format files under working directory of Rstudio
     * `Step4DataSet.txt` (8.3 Mb): it contains a *10299 x 68* data frame, which reaches the requirement of instruction from **Step 1** to **Step 4**
     * `Step5TidyDataSet.txt` (225 Kb): it cantains a *180 x 68* data frame,  which reaches the requirement of **Step 5**.
 
@@ -39,7 +39,7 @@ Creates a second, independent tidy data set with the average of each variable fo
 3. Run following command in `RStudio` to run Rstript
 		
 		source("run_analysis.R")
-4. **Step 3** will create two txt-format files under working directory of Rstudio
+4. Code above will create two txt-format files under working directory of Rstudio
     * `Step4DataSet.txt` (8.3 Mb): it contains a *10299 x 68* data frame, which reaches the requirement of instruction from **Step 1** to **Step 4**
     * `Step5TidyDataSet.txt` (225 Kb): it cantains a *180 x 68* data frame,  which reaches the requirement of **Step 5**.
   
