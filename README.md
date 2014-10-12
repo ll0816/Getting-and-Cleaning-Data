@@ -19,7 +19,7 @@ Creates a second, independent tidy data set with the average of each variable fo
 #### 1. Clone repo to your local machine from Github (containing Dataset, so take more time)   
 1. Run following command in your `Terminal`
 		
-		git clone https://github.com/ll0816/Project
+		git clone https://github.com/ll0816/Project.git
 2. Change working directory of RStudio correctly  
       
 		setwd("path to downloaded repo")
