@@ -2,6 +2,6 @@
 
 Course Project 
 
-*© All Rights reserved by Liu Li 07/09/2014 .*
+© Liu Lee 2014 All Rights reserved .
  
 
